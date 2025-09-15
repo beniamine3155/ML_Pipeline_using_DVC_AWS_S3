@@ -6,3 +6,6 @@ wordcloud
 nltk
 xgboost
 dvc
+dvclive
+dvc[s3]
+boto3
